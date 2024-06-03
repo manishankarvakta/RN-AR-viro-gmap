@@ -63,6 +63,3 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
-You can copy this markdown content and use it as your project's README.md file on GitHub. Adjust the content and formatting as needed to fit your project's specific details. If you have any further questions or need additional assistance, feel free to ask!
