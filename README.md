@@ -1,4 +1,3 @@
-```markdown
 # React Native AR Mobile App with Onboarding and Authentication
 
 This project is a React Native mobile application that combines AR functionality with onboarding and authentication features. Users can explore their surroundings in augmented reality, log in securely, and manage their accounts.
